@@ -38,6 +38,10 @@ git clone https://github.com/VasiliyGroo/test-for-frontend-master
 ```git
 cd test-for-frontend-master
 ```
+Выполните команду для установки необходимых пакетов для работоспособности приложения
+```git
+npm install
+```
 Выполните команду запуска проекта в режиме dev
 ```git
 npm run dev
