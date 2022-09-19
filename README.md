@@ -3,6 +3,8 @@
 
 ## Реализация frontend части веб-приложения "ToDo"
 
+# Ознакомиться с демо можно по адресу: https://vasiliygroo.github.io/test-for-frontend-master/
+
 Стек:
 <ol>
 <li>Инструмент сборки веб-проектов - <strong>Vite.js</strong>;</li>
