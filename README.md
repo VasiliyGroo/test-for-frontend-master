@@ -3,7 +3,7 @@
 
 ## Реализация frontend части веб-приложения "ToDo"
 
-# Ознакомиться с демо можно по адресу: https://vasiliygroo.github.io/test-for-frontend-master/
+### Ознакомиться с демо можно по адресу: https://vasiliygroo.github.io/test-for-frontend-master/
 
 Стек:
 <ol>
